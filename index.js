@@ -18,4 +18,4 @@ client.on('messageCreate', message => {
 });
 
 // Yahan apna Discord Bot ka Token dalein (ya environment variable use karein)
-client.login('APNA_BOT_TOKEN_YAHAN_DAALEIN');
+client.login('MTU0NzI4MjgxNTcwMjI3ODIxNQ.GoJ1q8.Te0qlUa5dQBmfwHMl4kjcnnVfFEdHFeQ0tKwB8');
